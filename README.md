@@ -1,5 +1,3 @@
-# webxr-map1
-WebXR用の日本地図可視化
 <!-- ブロック1 -->
 <!DOCTYPE html>
 <html>
